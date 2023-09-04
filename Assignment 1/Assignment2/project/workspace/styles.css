@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+#converter {
+    margin: 20px;
+}
+
+#history {
+    margin: 20px;
+}
+
+#historyList {
+    list-style-type: none;
+}
+
+button {
+    margin: 10px;
+}
