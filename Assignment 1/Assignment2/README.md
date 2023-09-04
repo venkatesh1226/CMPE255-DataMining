@@ -10,9 +10,14 @@ Writing entire app
 
 submit your screencast and code generated in github repo
 
-pending functions created using copilot
+pending 
+functions created using copilot
 
-[Screen Cast of gpt engineer creating project](https://github.com/venkatesh1226/CMPE255-DataMining/blob/main/Assignment%201/Assignment2/Screen-rec.mp4)
+## Screen Cast of gpt engineer creating project
+
+https://github.com/venkatesh1226/CMPE255-DataMining/assets/51997864/15ed184a-4023-45e2-945b-0700b94abd89
+
+
 
 [sample project files created with gpt engineer  ](https://github.com/venkatesh1226/CMPE255-DataMining/tree/main/Assignment%201/Assignment2/project)
 
