@@ -9,6 +9,6 @@ submit the medium article
 
 
 
-#Published medium article:(link)[https://medium.com/@venkatesh1226m/harnessing-chatgpt-for-data-mining-analyzing-california-housing-prices-5a1f6da5f401]
+#Published medium article: [link](https://medium.com/@venkatesh1226m/harnessing-chatgpt-for-data-mining-analyzing-california-housing-prices-5a1f6da5f401)
 
-chat gpt convo: (pdf)[https://github.com/venkatesh1226/CMPE255-DataMining/blob/main/Assignment%201/Assignment1/chatgpt-assignment1.pdf.pdf]
+chat gpt conversation: [pdf](https://github.com/venkatesh1226/CMPE255-DataMining/blob/main/Assignment%201/Assignment1/chatgpt-assignment1.pdf.pdf)
