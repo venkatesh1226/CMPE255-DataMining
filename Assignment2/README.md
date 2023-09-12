@@ -1,5 +1,6 @@
 
-**Task 1**
+**Task 1** 
+Automl using JadBio
 
 
 https://github.com/venkatesh1226/CMPE255-DataMining/assets/51997864/8467d383-8cb1-4034-b84e-3aca302c8de1
@@ -27,4 +28,8 @@ g. Time Series Forecasting - Univariate without Exogenous Variables : [Colab](ht
 
 h. Time Series Forecasting - Univariate with Exogenous Variables : [Colab](https://colab.research.google.com/drive/1SQ1ogvASmzkuv4R6BmGoCjH5C-1VHfET#scrollTo=EggP65MSdH03&line=1&uniqifier=1)
 
-**Task 3**
+**Task 3**: gradio + PyCaret
+[Colab](https://colab.research.google.com/drive/1tUODhZ9DfPqJoXdwgLZ6AKBLrWZp_bpl#scrollTo=SrwqTsn0KIwF&line=21&uniqifier=1)
+
+[gradio.webm](https://github.com/venkatesh1226/CMPE255-DataMining/assets/51997864/688e9acf-7caa-4e5b-a189-4a9faa53152d)
+
