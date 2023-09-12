@@ -2,6 +2,11 @@
 **Task 1**
 
 
+https://github.com/venkatesh1226/CMPE255-DataMining/assets/51997864/8467d383-8cb1-4034-b84e-3aca302c8de1
+
+
+
+
 **Task 2**
 
 _Use pycaret to do low code data mining_
