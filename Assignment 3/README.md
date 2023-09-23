@@ -1,4 +1,4 @@
-This assignment is to do principled step by step phase by phase data science with the three methodologies for each methodology (CRISP-DM SEMMA AND KDD )
+This assignment is to do principled step by step data science with the three methodologies CRISP-DM, SEMMA, and KDD.
 
 | Methodologies | Kaggle Datasets Link | Google Colab link | Medium Article | Research Paper | Github subfolders | 
 | ------------- | ------------------- | ----------------- | -------------- | -------------- | ----------- |
