@@ -13,3 +13,7 @@
 [Images_data](https://colab.research.google.com/drive/1UFTplcuj0lPsvnmMUqn8SrTEL1ifhWUX?usp=sharing) 
 
 [Kaggle link](https://www.kaggle.com/datasets/vishalsubbiah/pokemon-images-and-types)
+
+[Audio](https://colab.research.google.com/drive/1UA99TQpt3k1IZpPU6W3wJbEidb-4OvCW?usp=sharing)
+
+[Kaggle link](https://www.kaggle.com/datasets/mmoreaux/audio-cats-and-dogs/data)
