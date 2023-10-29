@@ -17,3 +17,7 @@
 [Audio](https://colab.research.google.com/drive/1UA99TQpt3k1IZpPU6W3wJbEidb-4OvCW?usp=sharing)
 
 [Kaggle link](https://www.kaggle.com/datasets/mmoreaux/audio-cats-and-dogs/data)
+
+[Video](https://colab.research.google.com/drive/1kSSvuStiuvRwTthdZ1fYn_hxl9HVTsJ4?usp=sharing)
+
+[Kaggle link](https://www.kaggle.com/datasets/brsdincer/climate-change-video-set-nasa/data)
