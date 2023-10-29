@@ -9,3 +9,7 @@
 [Spatio-Temporal](https://colab.research.google.com/drive/1M7d459OUjHAYSGFC10WYHCgENAk5yu56?usp=sharing)
 
 [Kaggle Link](https://www.kaggle.com/code/selfishgene/psychology-of-a-professional-athlete/input)
+
+[Images_data](https://colab.research.google.com/drive/1UFTplcuj0lPsvnmMUqn8SrTEL1ifhWUX?usp=sharing) 
+
+[Kaggle link](https://www.kaggle.com/datasets/vishalsubbiah/pokemon-images-and-types)
