@@ -1,3 +1,5 @@
+[Medium Link](https://medium.com/@venkatesh1226m/from-pixels-to-predictions-a-deep-dive-with-gpt-and-automl-361856331651)
+
 [Tabular data](https://colab.research.google.com/github/venkatesh1226/CMPE255-DataMining/blob/main/tabular_eda.ipynb)
 
 [Kaggle link](https://www.kaggle.com/datasets/shivamb/netflix-shows/data)
