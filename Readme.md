@@ -8,4 +8,6 @@
 
 [anomaly detection using pyOD](https://colab.research.google.com/drive/1mbplTWMQTkcW0qQ6nrgUhyK8q-olStkz?usp=sharing)
 
+[Illustrate clustering of timeseries data using pretrained models](https://colab.research.google.com/drive/1-P1gTr43efb_oyys8thqKYBFUcxnfsX2?usp=sharing)
 
+[Illustrate clustering  of documents. use state of art embeddings (LLM Embeddings).](https://colab.research.google.com/drive/1k_SRRcAR1IVld_v6RcSVsNy4XJ1rCOSZ?usp=sharing)
